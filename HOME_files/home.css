@@ -1,0 +1,44 @@
+/HOME PAGE CSS/
+body{
+    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+ul a{
+    text-decoration: none;
+    list-style-type: none;
+    color: rgb(128, 0, 100);
+    font-family: Arial, Helvetica, sans-serif;
+    float: right;
+    margin-right: 120px;
+    border: 2px outset blue;
+    margin-top: 40px;
+    padding: 5px;
+}
+li a:hover
+{
+    background-color: transparent;
+    text-decoration: none;
+    font-size: 20px;
+    font-family:cursive;
+    
+    opacity: 0.7;
+    color: rgb(128, 0, 100);
+}
+h1{
+    font-size: 50px;
+    font-family:cursive;
+    color: rgb(128, 0, 100);
+    text-align: center;
+    margin-top: 200px;
+}
+h3{
+    font-size: 20px;
+    font-family:cursive;
+    color: rgb(128, 0, 100);
+    text-align: LEFT;
+    margin-top: 100px; 
+}
